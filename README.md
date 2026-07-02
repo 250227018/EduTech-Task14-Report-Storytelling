@@ -5,6 +5,7 @@ MS PowerPoint
 
 ## Deliverables
 - Final Presentation (10 slides)
+- final report in docs
 
 ## Presentation Structure
 1. Title Slide
